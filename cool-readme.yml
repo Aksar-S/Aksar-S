@@ -1,0 +1,37 @@
+user: Aksar-S
+
+# Cards to generate in order: about, streaks (you can also add: languages, weekly, summary, contributions)
+show: [about, streaks]
+
+count:
+  private: true
+  orgs: true
+
+look:
+  style: classic
+  color: amber
+  animations: true
+  background: none
+  border: false
+
+cards:
+  about:
+    title: About
+    headline: "Hi, I'm *Aksar*"
+    lines:
+      - "Full-stack Developer & Open Source Enthusiast."
+      - "Passionate about building *modern web apps*."
+      - "Exploring new technologies and creative design."
+      - "Always learning and contributing to the community."
+    facts:
+      "Based in": "India"
+      "Currently": "Crafting awesome projects"
+  streaks:
+    title: Streaks
+  # Optional cards if enabled in show:
+  # weekly:
+  #   title: Weekly rhythm
+  # languages:
+  #   title: Most used languages
+  #   count: 6
+
