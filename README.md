@@ -4,12 +4,12 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./images/about-dark.svg">
-    <img src="./images/about-light.svg" width="400" alt="About">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aksar-S/Aksar-S/cards/about-dark.svg">
+    <img src="https://raw.githubusercontent.com/Aksar-S/Aksar-S/cards/about-light.svg" width="400" alt="About">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./images/streaks-dark.svg">
-    <img src="./images/streaks-light.svg" width="400" alt="Streaks">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aksar-S/Aksar-S/cards/streaks-dark.svg">
+    <img src="https://raw.githubusercontent.com/Aksar-S/Aksar-S/cards/streaks-light.svg" width="400" alt="Streaks">
   </picture>
 </p>
 
